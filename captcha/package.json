@@ -1,0 +1,14 @@
+{
+  "name": "captcha",
+  "version": "1.0.0",
+  "description": "Example for 'TypeScript for people' course",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest"
+  },
+  "author": "Thanabodee Charoenpiriyakij <wingyminus@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^15.1.1"
+  }
+}
