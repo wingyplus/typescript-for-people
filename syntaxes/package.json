@@ -1,0 +1,16 @@
+{
+  "name": "syntaxes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "compile": "./node_modules/.bin/tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^15.1.1",
+    "typescript": "^2.0.0"
+  }
+}
