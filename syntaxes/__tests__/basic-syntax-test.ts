@@ -94,6 +94,13 @@ Line 2`;
         expect(something()).toEqual('word');
       });
     });
+
+    describe('anonymous function', function() {
+      it('declare with () =>', function() {
+        const something = () => 'word';
+        expect(something()).toEqual('word');
+      });
+    });
   });
 
   xdescribe('union', function() {
